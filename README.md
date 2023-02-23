@@ -1,6 +1,6 @@
 # Note-Keeper-WebApp
 
-Keeper App built with React
+Keeper App built using React
 Similar to Google's Keep app.
 
 
